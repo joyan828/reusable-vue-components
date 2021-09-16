@@ -12,7 +12,7 @@ storiesOf('TableRow', module)
     `,
     data: () => ({
       values: [
-        'Never ending',
+        'test',
         'email@email.com'
       ]
     })
