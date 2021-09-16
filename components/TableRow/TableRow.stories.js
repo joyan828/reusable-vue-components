@@ -12,7 +12,7 @@ storiesOf('TableRow', module)
     `,
     data: () => ({
       values: [
-        'Saebom An',
+        'Joy An',
         'email@email.com'
       ]
     })
