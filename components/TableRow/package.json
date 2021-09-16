@@ -2,7 +2,7 @@
   "name": "@fe-sd/table-row",
   "version": "0.4.0",
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   },
-  "gitHead": "918397f4e7f346de5498ed5abc032f4e712ec194"
+  "gitHead": "2d602a65015ea005093556f5ec1aaf9f35ec9320"
 }
