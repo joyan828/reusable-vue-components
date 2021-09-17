@@ -6,9 +6,10 @@
   },
   "dependencies": {
     "@fe-sd/table-row": "^0.7.2"
-  },  
-  "repository" : {
+  },
+  "repository": {
     "type": "git",
     "url": "ssh://git@github.com:joyan828/reusable-vue-components.git"
-  }
+  },
+  "gitHead": "921e3e1c376352c86ecd33be899e195982cb56e0"
 }

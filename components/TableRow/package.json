@@ -4,5 +4,9 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "4e4653aa69fdc15327945e30802daaceb1ed8a67"
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:joyan828/reusable-vue-components.git"
+  },
+  "gitHead": "921e3e1c376352c86ecd33be899e195982cb56e0"
 }
