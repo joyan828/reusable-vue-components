@@ -21,6 +21,6 @@
   "scripts": {
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "build": "cross-env BABEL_ENV=production babel components -d dist"
+    "build": "vue-cli-service build --target lib --name mylib components/**/main.js"
   }
 }

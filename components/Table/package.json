@@ -11,5 +11,9 @@
     "type": "git",
     "url": "ssh://git@github.com:joyan828/reusable-vue-components.git"
   },
-  "gitHead": "dc00b07b30845b8511cdb1fb199d2a04aaa2de8e"
+  "gitHead": "dc00b07b30845b8511cdb1fb199d2a04aaa2de8e",
+  "scripts": {
+    "build": "vue-cli-service build --target lib --name table Table/main.js"
+  },
+  "main": "./dist/table.common.js"
 }
