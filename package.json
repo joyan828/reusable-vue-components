@@ -2,6 +2,7 @@
   "name": "root",
   "version": "0.0.0",
   "devDependencies": {
+    "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.5",
     "@storybook/addon-actions": "^6.3.8",
     "@storybook/addon-essentials": "^6.3.8",
@@ -9,6 +10,7 @@
     "@storybook/vue": "^6.3.8",
     "babel-loader": "^8.2.2",
     "babel-preset-vue": "^2.0.2",
+    "cross-env": "^7.0.3",
     "lerna": "^4.0.0",
     "vue-loader": "^15.9.8",
     "vue-template-compiler": "^2.6.14"
@@ -18,6 +20,7 @@
   },
   "scripts": {
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "build": "cross-env BABEL_ENV=production babel components -d dist"
   }
 }
