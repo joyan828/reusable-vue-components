@@ -20,7 +20,6 @@
   },
   "scripts": {
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook",
-    "build": "vue-cli-service build --target lib --name mylib components/**/main.js"
+    "build-storybook": "build-storybook"
   }
 }

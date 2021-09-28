@@ -1,5 +1,5 @@
 {
-  "name": "@fe-sd/table-row",
+  "name": "@joyan/fe-sd/table-row",
   "version": "0.8.0",
   "publishConfig": {
     "access": "public",
@@ -9,7 +9,7 @@
     "type": "git",
     "url": "ssh://git@github.com:joyan828/reusable-vue-components.git"
   },
-  "gitHead": "5dcfb29104af28d12f599d7d162f0b83a11632fb",
+  "gitHead": "bd07154452707d2446c3b98e8db9f0e6ab8244d4",
   "scripts": {
     "build": "vue-cli-service build --target lib --name table-row TableRow/main.js"
   },
