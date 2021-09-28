@@ -9,7 +9,7 @@
     "type": "git",
     "url": "ssh://git@github.com:joyan828/reusable-vue-components.git"
   },
-  "gitHead": "0e0217fe0520dcc2cc3dc93cc0d37f53f6d3914b",
+  "gitHead": "21ac7ad1b0e98fc539f837a1fe9a82ff7433dfbe",
   "scripts": {
     "build": "vue-cli-service build --target lib --name table-row TableRow/main.js"
   },
