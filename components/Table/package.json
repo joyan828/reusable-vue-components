@@ -1,5 +1,5 @@
 {
-  "name": "@joyan/fe-sd.table",
+  "name": "@joyan828/fe-sd.table",
   "version": "0.2.0",
   "publishConfig": {
     "access": "public",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "ssh://git@github.com:joyan828/reusable-vue-components.git"
   },
-  "gitHead": "bd07154452707d2446c3b98e8db9f0e6ab8244d4",
+  "gitHead": "bfa514af2e432100d9ec7124c4fe64e8bed557a2",
   "scripts": {
     "build": "vue-cli-service build --target lib --name table Table/main.js"
   },
