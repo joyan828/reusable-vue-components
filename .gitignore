@@ -3,5 +3,3 @@ dist/
 storybook-static
 npm-debug.log*
 lerna-debug.log*
-// 임시 
-package.json*
