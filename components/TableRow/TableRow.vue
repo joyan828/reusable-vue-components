@@ -20,7 +20,8 @@ export default {
 
 <style scoped>
 tr {
-  background-color: white;
+  /* background-color: rgb(197, 194, 194); */
+  color: violet;
   border-radius: 4px;
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.08);
 }
