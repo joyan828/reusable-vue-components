@@ -1,5 +1,5 @@
 {
-  "name": "@joyan/fe-sd/table-row",
+  "name": "@joyan/fe-sd.table-row",
   "version": "0.8.0",
   "publishConfig": {
     "access": "public",
